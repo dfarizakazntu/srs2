@@ -1,0 +1,26 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Fari",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfarizakazntu/srs2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dfarizakazntu/srs2"
+  },
+  "homepage": "https://github.com/dfarizakazntu/srs2#readme",
+  "description": ""
+}
